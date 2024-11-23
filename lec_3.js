@@ -68,3 +68,4 @@ const complex = {
 
 console.log(complex.insideObj.age);
 console.log(complex.names[1]);
+//
